@@ -1,0 +1,72 @@
+{
+  "dark": {
+    "name": "Dark",
+    "background": "#141C30",
+    "header": {
+      "title": "#FFFFFF",
+      "switch": "#FFFFFF"
+    },
+    "search": {
+      "background": "#1F2A48",
+      "text": "#FFFFFF",
+      "icon": "#0077FF",
+      "button": "#0077FF",
+      "buttonText": "#FFFFFF"
+    },
+    "infos": {
+      "background": "#1F2A48",
+      "user": {
+        "user": "#FFFFFF",
+        "company": "#0077FF",
+        "bio": "#E5E5E5",
+        "date": "#8E98B1"
+      }
+    },
+    "analytics": {
+      "background": "#141C30",
+      "info": "#8E98B1",
+      "value": "#FFFFFF"
+    },
+    "details": {
+      "icon": "#FFFFFF",
+      "icon_disabled": "#8E98B1",
+      "text": "#E5E5E5",
+      "text_disabled": "#8E98B1"
+    }
+  },
+  "light": {
+    "name": "Light",
+    "background": "#F3F3FB",
+    "header": {
+      "title": "#5C6063",
+      "switch": "#5C6063"
+    },
+    "search": {
+      "background": "#FEFEFE",
+      "text": "#5C6063",
+      "icon": "#0077FF",
+      "button": "#0077FF",
+      "buttonText": "#FFFFFF"
+    },
+    "infos": {
+      "background": "#FEFEFE",
+      "user": {
+        "user": "#5C6063",
+        "company": "#0077FF",
+        "bio": "#8E98B1",
+        "date": "#8E98B1"
+      }
+    },
+    "analytics": {
+      "background": "#F3F3FB",
+      "info": "#8E98B1",
+      "value": "#5C6063"
+    },
+    "details": {
+      "icon": "#4B6CA2",
+      "icon_disabled": "#8E98B1",
+      "text": "#8E98B1",
+      "text_disabled": "#8E98B1"
+    }
+  }
+}
